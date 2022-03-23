@@ -1,0 +1,12 @@
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\bin\Debug\net5.0\LogicaValidar.deps.json
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\bin\Debug\net5.0\LogicaValidar.dll
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\bin\Debug\net5.0\LogicaValidar.pdb
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.csproj.AssemblyReference.cache
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.AssemblyInfoInputs.cache
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.AssemblyInfo.cs
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.dll
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\refint\LogicaValidar.dll
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\LogicaValidar.pdb
+C:\Users\chuchi\source\repos\EjercicioUnoValidador\Validador\obj\Debug\net5.0\ref\LogicaValidar.dll

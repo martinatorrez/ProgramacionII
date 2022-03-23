@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioUnoValidador", "EjercicioUnoValidador\EjercicioUnoValidador.csproj", "{C4703305-B2CF-4378-A35E-44EE6DAACC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaValidar", "Validador\LogicaValidar.csproj", "{2A314FE3-AF28-41B6-9A0E-947B2C25D3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4703305-B2CF-4378-A35E-44EE6DAACC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4703305-B2CF-4378-A35E-44EE6DAACC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4703305-B2CF-4378-A35E-44EE6DAACC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4703305-B2CF-4378-A35E-44EE6DAACC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A314FE3-AF28-41B6-9A0E-947B2C25D3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A314FE3-AF28-41B6-9A0E-947B2C25D3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A314FE3-AF28-41B6-9A0E-947B2C25D3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A314FE3-AF28-41B6-9A0E-947B2C25D3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F70B9E-9BA2-46CE-8073-9C3B5B93E32D}
+	EndGlobalSection
+EndGlobal
