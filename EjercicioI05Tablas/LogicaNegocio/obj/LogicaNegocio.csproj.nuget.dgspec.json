@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\EjercicioI05Tablas\\EjercicioI05Tablas.csproj": {}
+    "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\LogicaNegocio\\LogicaNegocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\EjercicioI05Tablas\\EjercicioI05Tablas.csproj": {
+    "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\LogicaNegocio\\LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\EjercicioI05Tablas\\EjercicioI05Tablas.csproj",
-        "projectName": "EjercicioI05Tablas",
-        "projectPath": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\EjercicioI05Tablas\\EjercicioI05Tablas.csproj",
+        "projectUniqueName": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\LogicaNegocio\\LogicaNegocio.csproj",
+        "projectName": "LogicaNegocio",
+        "projectPath": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\LogicaNegocio\\LogicaNegocio.csproj",
         "packagesPath": "C:\\Users\\chuchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\EjercicioI05Tablas\\obj\\",
+        "outputPath": "C:\\Users\\chuchi\\Desktop\\Programacion-labo II\\EjercicioI05Tablas\\LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chuchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
