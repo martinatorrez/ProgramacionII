@@ -1,0 +1,24 @@
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\refint\LogicaNegocio.dll
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\chuchi\source\repos\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\refint\LogicaNegocio.dll
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\chuchi\Desktop\Programacion-labo II\EjercicioI08Tiempo\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll
