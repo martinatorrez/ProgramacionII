@@ -1,0 +1,16 @@
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.exe
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.deps.json
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.runtimeconfig.json
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.runtimeconfig.dev.json
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.dll
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\bin\Debug\net5.0\Ejercicio6Bisiestos.pdb
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.csproj.AssemblyReference.cache
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.AssemblyInfoInputs.cache
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.AssemblyInfo.cs
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.dll
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\refint\Ejercicio6Bisiestos.dll
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.pdb
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\Ejercicio6Bisiestos.genruntimeconfig.cache
+C:\Users\chuchi\source\repos\Ejercicio6Bisiestos\Ejercicio6Bisiestos\obj\Debug\net5.0\ref\Ejercicio6Bisiestos.dll
