@@ -1,0 +1,12 @@
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\bin\Debug\net5.0\LogicaNegocios.deps.json
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\bin\Debug\net5.0\LogicaNegocios.dll
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\bin\Debug\net5.0\LogicaNegocios.pdb
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.AssemblyInfoInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.AssemblyInfo.cs
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.dll
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\refint\LogicaNegocios.dll
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\LogicaNegocios.pdb
+C:\Users\chuchi\source\repos\EjercicioI04Calculadora\LogicaNegocios\obj\Debug\net5.0\ref\LogicaNegocios.dll
