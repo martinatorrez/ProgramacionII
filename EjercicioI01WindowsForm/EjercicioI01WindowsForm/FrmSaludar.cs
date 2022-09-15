@@ -19,21 +19,21 @@ namespace EjercicioI01WindowsForm
 
         private void btnSaludar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(this.textBox2.Text) && string.IsNullOrWhiteSpace(this.textBox1.Text)) 
+            if (string.IsNullOrWhiteSpace(this.txtBoxApellido.Text) && string.IsNullOrWhiteSpace(this.txtBoxNombre.Text)) 
             {
                 MessageBox.Show($"Se deben completar los siguientes campos \n Nombre\n Apellido", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if (string.IsNullOrWhiteSpace(this.textBox2.Text))
+            else if (string.IsNullOrWhiteSpace(this.txtBoxApellido.Text))
             {
                 MessageBox.Show($"Se deben completar los siguientes campos \n Apellido", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if (string.IsNullOrWhiteSpace(this.textBox1.Text)) 
+            else if (string.IsNullOrWhiteSpace(this.txtBoxNombre.Text)) 
             {
                 MessageBox.Show($"Se deben completar los siguientes campos \n Nombre", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else 
             {
-                FrmSaludo frm = new FrmSaludo("Hola Windows Form!", $"Soy {this.textBox1.Text} {this.textBox2.Text} y mi materia favorita es: {this.cmbMaterias.SelectedItem}");
+                FrmSaludo frm = new FrmSaludo("Hola Windows Form!", $"Soy {this.txtBoxNombre.Text} {this.txtBoxApellido.Text} y mi materia favorita es: {this.cmbMaterias.SelectedItem}");
                 frm.ShowDialog();
                 
             }

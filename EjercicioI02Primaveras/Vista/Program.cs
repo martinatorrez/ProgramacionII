@@ -6,7 +6,7 @@ namespace Vista
     {
         static void Main(string[] args)
         {
-            Persona personaUno = new Persona("Martina","27/09/2002",854697);
+            Persona personaUno = new Persona("Maria","1/09/2002",854697);
             Persona personaDos = new Persona("Juan", "23/03/1997", 632145);
             Persona personaTres = new Persona("Marcos", "25/02/2017", 369746);
 

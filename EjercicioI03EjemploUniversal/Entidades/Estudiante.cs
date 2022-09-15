@@ -53,16 +53,16 @@ namespace Entidades
         public string Mostrar() 
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat($"Nombre y apellido: {nombre} {apellido}. Legajo: {legajo}");
-            sb.AppendLine("");
-            sb.AppendFormat($"Nota primer parcial: {notaPrimerParcial} Nota segundo parcial:{notaSegundoParcial}");
-            sb.AppendLine("");
-            sb.AppendFormat($"Promedio: {CalcularPromedio()}");
-            sb.AppendLine("");
+            sb.AppendLine($"Nombre y apellido: {nombre} {apellido}. Legajo: {legajo}");
+
+            sb.AppendLine($"Nota primer parcial: {notaPrimerParcial} Nota segundo parcial:{notaSegundoParcial}");
+
+            sb.AppendLine($"Promedio: {CalcularPromedio()}");
+
             if (CalcularNotaFinal() != -1) 
             {
-                sb.AppendFormat($"Nota final: {CalcularNotaFinal()}");
-                sb.AppendLine("");
+                sb.AppendLine($"Nota final: {CalcularNotaFinal()}");
+
             }
             else 
             {

@@ -1,0 +1,16 @@
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.exe
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.deps.json
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.runtimeconfig.json
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.runtimeconfig.dev.json
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.dll
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\bin\Debug\net5.0\EjercicioI01Colecciones.pdb
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.csproj.AssemblyReference.cache
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.AssemblyInfoInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.AssemblyInfo.cs
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.dll
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\refint\EjercicioI01Colecciones.dll
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.pdb
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\EjercicioI01Colecciones.genruntimeconfig.cache
+C:\Users\chuchi\source\repos\EjercicioI01Colecciones\EjercicioI01Colecciones\obj\Debug\net5.0\ref\EjercicioI01Colecciones.dll

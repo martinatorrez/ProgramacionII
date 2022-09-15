@@ -30,8 +30,8 @@
         {
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblApellido = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtBoxNombre = new System.Windows.Forms.TextBox();
+            this.txtBoxApellido = new System.Windows.Forms.TextBox();
             this.btnSaludar = new System.Windows.Forms.Button();
             this.cmbMaterias = new System.Windows.Forms.ComboBox();
             this.lblMateria = new System.Windows.Forms.Label();
@@ -40,40 +40,42 @@
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(160, 54);
+            this.lblNombre.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblNombre.Location = new System.Drawing.Point(51, 54);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(51, 15);
+            this.lblNombre.Size = new System.Drawing.Size(53, 15);
             this.lblNombre.TabIndex = 0;
             this.lblNombre.Text = "Nombre";
             // 
             // lblApellido
             // 
             this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(293, 54);
+            this.lblApellido.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblApellido.Location = new System.Drawing.Point(240, 54);
             this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(51, 15);
+            this.lblApellido.Size = new System.Drawing.Size(52, 15);
             this.lblApellido.TabIndex = 1;
             this.lblApellido.Text = "Apellido";
             // 
-            // textBox1
+            // txtBoxNombre
             // 
-            this.textBox1.Location = new System.Drawing.Point(160, 72);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(73, 23);
-            this.textBox1.TabIndex = 2;
+            this.txtBoxNombre.Location = new System.Drawing.Point(51, 72);
+            this.txtBoxNombre.Name = "txtBoxNombre";
+            this.txtBoxNombre.Size = new System.Drawing.Size(132, 23);
+            this.txtBoxNombre.TabIndex = 2;
             // 
-            // textBox2
+            // txtBoxApellido
             // 
-            this.textBox2.Location = new System.Drawing.Point(293, 72);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(86, 23);
-            this.textBox2.TabIndex = 3;
+            this.txtBoxApellido.Location = new System.Drawing.Point(240, 72);
+            this.txtBoxApellido.Name = "txtBoxApellido";
+            this.txtBoxApellido.Size = new System.Drawing.Size(162, 23);
+            this.txtBoxApellido.TabIndex = 3;
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(432, 177);
+            this.btnSaludar.Location = new System.Drawing.Point(371, 164);
             this.btnSaludar.Name = "btnSaludar";
-            this.btnSaludar.Size = new System.Drawing.Size(100, 30);
+            this.btnSaludar.Size = new System.Drawing.Size(117, 30);
             this.btnSaludar.TabIndex = 4;
             this.btnSaludar.Text = "Saludar";
             this.btnSaludar.UseVisualStyleBackColor = true;
@@ -83,7 +85,7 @@
             // 
             this.cmbMaterias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbMaterias.FormattingEnabled = true;
-            this.cmbMaterias.Location = new System.Drawing.Point(135, 135);
+            this.cmbMaterias.Location = new System.Drawing.Point(82, 135);
             this.cmbMaterias.Name = "cmbMaterias";
             this.cmbMaterias.Size = new System.Drawing.Size(320, 23);
             this.cmbMaterias.TabIndex = 5;
@@ -91,9 +93,10 @@
             // lblMateria
             // 
             this.lblMateria.AutoSize = true;
-            this.lblMateria.Location = new System.Drawing.Point(135, 117);
+            this.lblMateria.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMateria.Location = new System.Drawing.Point(93, 117);
             this.lblMateria.Name = "lblMateria";
-            this.lblMateria.Size = new System.Drawing.Size(90, 15);
+            this.lblMateria.Size = new System.Drawing.Size(97, 15);
             this.lblMateria.TabIndex = 6;
             this.lblMateria.Text = "Materia favorita";
             // 
@@ -101,12 +104,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(648, 233);
+            this.ClientSize = new System.Drawing.Size(513, 210);
             this.Controls.Add(this.lblMateria);
             this.Controls.Add(this.cmbMaterias);
             this.Controls.Add(this.btnSaludar);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtBoxApellido);
+            this.Controls.Add(this.txtBoxNombre);
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.lblNombre);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -125,8 +128,8 @@
 
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblApellido;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtBoxNombre;
+        private System.Windows.Forms.TextBox txtBoxApellido;
         private System.Windows.Forms.Button btnSaludar;
         private System.Windows.Forms.ComboBox cmbMaterias;
         private System.Windows.Forms.Label lblMateria;

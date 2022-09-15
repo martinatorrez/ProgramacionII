@@ -59,14 +59,14 @@ namespace Entidades
         public static string Mostrar(Persona personaUno) 
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat($"Nombre: {personaUno.nombre}"); //si no funciona usar get
+            sb.AppendFormat($"Nombre: {personaUno.nombre}"); 
             sb.AppendLine("");
             sb.AppendFormat($"Fecha de nacimiento: {personaUno.fechaDeNacimiento}. Dni: {personaUno.dni}. Edad: {CalcularEdad(personaUno)}");
             return sb.ToString();
         }
         public static string EsMayorDeEdad(Persona personaUno) 
         {
-            string retorno = "No es mayor de edad";
+            string retorno = "Es menor";
             if (CalcularEdad(personaUno) > 17) 
             {
                 retorno = "Es mayor de edad";
